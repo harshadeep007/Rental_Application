@@ -173,3 +173,4 @@ D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.
 D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.AddMemberShipNameToMembershipType.resources
 D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.updateexsitingrecordsformembershipname.resources
 D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.SeedingDataIntoMembershipTypes.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.AddBirthdateToCustomer.resources

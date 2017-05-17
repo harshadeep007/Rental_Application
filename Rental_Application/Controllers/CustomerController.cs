@@ -30,7 +30,7 @@ namespace Rental_Application.Controllers
 
         public ActionResult Details(int id)
         {
-            var customer = _context.Customers.SingleOrDefault(c => c.id == id);
+            var customer = _context.Customers.Include(c=>c.MemberShipType).SingleOrDefault(c => c.id == id);
             if (customer == null)
             {
                 return HttpNotFound();
