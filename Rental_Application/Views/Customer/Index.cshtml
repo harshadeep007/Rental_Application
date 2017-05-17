@@ -1,8 +1,34 @@
-﻿
+﻿@model IEnumerable<Rental_Application.Models.Customer>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Customers";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Index</h2>
+<h2>Customers</h2>
+
+@if (!Model.Any())
+{
+    <p>We don't have any customers yet</p>
+}
+
+else
+{
+    <table class="table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Customer</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.ActionLink(customer.CustomerName, "Details", new { id = customer.id }, null)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
 
