@@ -162,3 +162,14 @@ D:\Harsha\POC\RentalApplication\Rental_Application\bin\Microsoft.Owin.Security.M
 D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.csprojResolveAssemblyReference.cache
 D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.dll
 D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.pdb
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.csproj.GenerateResource.Cache
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.intialmodelforce.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.intialmodel1.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.AddIsSubscribedToCustomer.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.AddMemberShipType.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.initialmodelrecreate.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.PopulateMembershipTypes.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.AddMemberShipNameToMembershipType.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.updateexsitingrecordsformembershipname.resources
+D:\Harsha\POC\RentalApplication\Rental_Application\obj\Debug\Rental_Application.Migrations.SeedingDataIntoMembershipTypes.resources
